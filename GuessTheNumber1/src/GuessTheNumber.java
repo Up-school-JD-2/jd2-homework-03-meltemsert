@@ -37,7 +37,7 @@ public class GuessTheNumber {
 			}
 		
 		System.out.println("1. player guess number: " + table[0]);
-		System.out.println("1. player guess number: " + table[1]);
+		System.out.println("2. player guess number: " + table[1]);
 		
       	}
 	
